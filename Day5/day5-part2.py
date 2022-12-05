@@ -4,7 +4,7 @@ import queue
 import re
 
 #set below to logging.DEBUG to see values line by line
-logging.basicConfig(level=logging.DEBUG)
+logging.basicConfig(level=logging.INFO)
 with open("inputorig.txt", "r") as inFile:
     stacks, commands= inFile.read().strip().split('\n\n')
     

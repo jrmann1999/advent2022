@@ -1,0 +1,29 @@
+$ cd /
+$ ls
+dir plws
+dir pwlbgbz
+dir pwtpltr
+dir szn
+$ cd plws
+$ ls
+dir ffpzc
+dir frcmjzts
+92461 nbvnzg
+dir phqcg
+21621 vqgsglwq
+$ cd ffpzc
+$ ls
+48459 dzdfc.vqq
+143107 jql.jzl
+208330 mmnvqn.hqb
+290122 svjvhflz
+218008 wjlmgq
+$ cd ..
+$ cd frcmjzts
+$ ls
+dir bsltmjz
+dir jfzgrbm
+$ cd bsltmjz
+$ ls
+34237 dzdfc.vqq
+58741 mdgdhqgw
